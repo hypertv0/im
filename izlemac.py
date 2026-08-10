@@ -11,7 +11,6 @@ Kullanım:  python izlemac.py
 """
 import requests
 import re
-import base64
 import sys
 import os
 import time
@@ -96,7 +95,12 @@ def collect_links(base):
 
 # ---------------- LİNKTEN YAYIN LINKİ ÜRET ----------------
 def page_to_stream(page_url, base):
-    """Maç/kanal sayfasından direkt m3u8 linki üretir."""
+    """Maç/kanal sayfasından direkt m3u8 linki üretir.
+
+    Sayfadaki match-center.php?id=XXXX değeri DOĞRUDAN stream ID'sidir.
+    (match-center.php?id=X çağrısı herkese aynı fallback değeri döndüğü
+    için mainSource çözümlemesi GÜVENİLMEZ — sayfa ID'si kullanılır.)
+    """
     try:
         r = requests.get(page_url, headers=HEADERS, timeout=TIMEOUT)
         if r.status_code != 200:
@@ -104,26 +108,7 @@ def page_to_stream(page_url, base):
         m = re.search(r"match-center\.php\?id=(\d+)", r.text)
         if not m:
             return None
-        match_id = m.group(1)
-
-        # match-center.php'den mainSource'u çöz
-        mc_url = base + "/wp-content/themes/ikisifirbirdokuz/match-center.php?id=" + match_id
-        r2 = requests.get(mc_url, headers=HEADERS, timeout=TIMEOUT)
-        if r2.status_code != 200:
-            return None
-        html = r2.text
-        ms_pos = html.find("window.mainSource=")
-        if ms_pos == -1:
-            return None
-        seg = html[max(0, ms_pos - 250):ms_pos]
-        atobs = list(re.finditer(r'atob.{0,5}\("([A-Za-z0-9+/=]+)"\)', seg))
-        if not atobs:
-            return None
-        b64 = atobs[-1].group(1)
-        ms = base64.b64decode(b64 + "=" * (-len(b64) % 4)).decode("utf-8", "replace")
-        if not ms or ms == "null":
-            return None
-        return STREAM_TEMPLATE.format(ms)
+        return STREAM_TEMPLATE.format(m.group(1))
     except requests.exceptions.RequestException:
         return None
 
