@@ -1,9 +1,9 @@
-name: izlemac update
+name: yayin guncelle
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # her 30 dakikada bir
-  workflow_dispatch:          # elle çalıştırma
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -24,29 +24,27 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Yayın linklerini çek
+      - name: Yayin linklerini cek
         run: |
           pip install -q requests
-          python izlemac.py --output "$GITHUB_WORKSPACE/izlemac.m3u" --quiet
+          python yayin.py --output "$GITHUB_WORKSPACE/yayinlar.m3u" --channels-dir "$GITHUB_WORKSPACE/kanallar" --quiet
 
-      - name: M3U'yu repo'ya commit et
+      - name: Ciktiları commit et
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          if [ -f izlemac.m3u ]; then
-            git add izlemac.m3u
-            if git diff --cached --quiet; then
-              echo "Değişiklik yok, commit atlanıyor"
-            else
-              git commit -m "izlemac güncelleme: $(date -u +'%Y-%m-%d %H:%M UTC')"
-              git push
-            fi
+          git add yayinlar.m3u kanallar/
+          if git diff --cached --quiet; then
+            echo "Degisiklik yok"
+          else
+            git commit -m "yayin guncelleme: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
           fi
 
-      - name: Pages'e yayınla
+      - name: Pages'e yayinla
         uses: actions/configure-pages@v5
 
-      - name: Artifact yükle
+      - name: Artifact yukle
         uses: actions/upload-pages-artifact@v3
         with:
           path: .
