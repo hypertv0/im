@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""izlemac yayin cekici - sadece GitHub Actions icin.
+"""Canli yayin cekici - sadece GitHub Actions icin.
 
 Domain numarasi artar (655, 656, ...). En guncel domaini bulur,
 tum yayinlarin direkt m3u8 linklerini ceker, sadece GERCEKTEN
@@ -126,12 +126,10 @@ def safe_name(title):
     return t.strip().replace(" ", "-")
 
 def write_outputs(streams, out_m3u, out_dir):
-    """streams: [(baslik, url)]. Toplu m3u + kanallar/ klasoru yazar."""
-    if not streams:
-        msg("[!] Yayin yok, dosya yazilmadi.")
-        return False
+    """streams: [(baslik, url)]. Toplu m3u + kanallar/ klasoru yazar.
 
-    # Header satirlari: referrer + user-agent (EXTVLCOPT destekleyen playerlar icin)
+    Yayin yoksa bile bos #EXTM3U yazar — workflow git add'de cokmesin.
+    """
     referer = "https://izlemac655.sbs/"
     lines = ["#EXTM3U"]
     for title, url in streams:
@@ -143,7 +141,6 @@ def write_outputs(streams, out_m3u, out_dir):
         f.write("\n".join(lines) + "\n")
     msg(f"[OK] toplu liste: {out_m3u} ({len(streams)} yayin)")
 
-    # Her kanal icin ayri m3u8
     os.makedirs(out_dir, exist_ok=True)
     n = 0
     for title, url in streams:
@@ -163,7 +160,7 @@ def main():
     args = ap.parse_args()
     QUIET = args.quiet
 
-    msg("=== izlemac yayin cekici ===")
+    msg("=== canli yayin cekici ===")
     base = find_active_domain()
     if not base:
         msg("[!] Aktif domain bulunamadi.")

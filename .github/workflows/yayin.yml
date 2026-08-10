@@ -33,7 +33,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add yayinlar.m3u kanallar/
+          git add yayinlar.m3u kanallar/ 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "Degisiklik yok"
           else
