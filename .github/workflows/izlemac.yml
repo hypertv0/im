@@ -27,7 +27,7 @@ jobs:
       - name: Yayın linklerini çek
         run: |
           pip install -q requests
-          python izlemac.py --output izlemac.m3u --quiet
+          python izlemac.py --output "$GITHUB_WORKSPACE/izlemac.m3u" --quiet
 
       - name: M3U'yu repo'ya commit et
         run: |
