@@ -97,6 +97,28 @@ def page_to_stream(page_url):
     except requests.exceptions.RequestException:
         return None
 
+def api_stream(video_id):
+    """streamsport365.com/cinema API'sinden gercek video CDN URL'si alir.
+
+    Oynatici JS'i bu API'yi kullaniyor (ID > 10000 kosuluyla, ama API
+    her ID icin URL donduruyor). Donen URL token'li (s=, t=) ve zamanla
+    olur — workflow 30 dk'da bir tazeledigi icin sorun degil.
+    """
+    try:
+        r = requests.post(
+            "https://streamsport365.com/cinema",
+            headers={"Content-Type": "application/json", "Accept": "*/*",
+                     "User-Agent": HEADERS["User-Agent"]},
+            json={"AppId": "5000", "AppVer": "1", "VpcVer": "1.0.12",
+                  "Language": "en", "Token": "", "VideoId": int(video_id)},
+            timeout=TIMEOUT,
+        )
+        if r.status_code != 200:
+            return None
+        return r.json().get("URL")
+    except (requests.exceptions.RequestException, ValueError):
+        return None
+
 def verify_video(url):
     """Sadece HTTP 200 degil, GERCEK video (ts segmenti) yayinliyor mu bak."""
     try:
@@ -142,6 +164,11 @@ def write_outputs(streams, out_m3u, out_dir):
     msg(f"[OK] toplu liste: {out_m3u} ({len(streams)} yayin)")
 
     os.makedirs(out_dir, exist_ok=True)
+    # git bos klasoru commit etmez -> .gitkeep yaz (klasor her zaman dursun)
+    keep = os.path.join(out_dir, ".gitkeep")
+    if not os.path.exists(keep):
+        with open(keep, "w", encoding="utf-8") as f:
+            f.write("")
     n = 0
     for title, url in streams:
         fname = os.path.join(out_dir, safe_name(title) + ".m3u8")
@@ -171,7 +198,14 @@ def main():
 
     streams = []
     for i, (title, url) in enumerate(links, 1):
+        # 1) yerel ID -> e-aga-m sablonu (token'siz, kalici)
         stream = page_to_stream(url)
+        # 2) gercek video yoksa -> streamsport365 API (token'li, guncel)
+        if not (stream and verify_video(stream)):
+            mid = re.search(r"match-center\.php\?id=(\d+)", requests.get(url, headers=HEADERS, timeout=TIMEOUT).text)
+            api_url = api_stream(mid.group(1)) if mid else None
+            if api_url and verify_video(api_url):
+                stream = api_url
         if stream and verify_video(stream):
             streams.append((title, stream))
             msg(f"  [{i}/{len(links)}] + {title[:45]}")
