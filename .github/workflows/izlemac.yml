@@ -1,0 +1,55 @@
+name: izlemac update
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # her 30 dakikada bir
+  workflow_dispatch:          # elle çalıştırma
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Yayın linklerini çek
+        run: |
+          pip install -q requests
+          python izlemac.py --output izlemac.m3u --quiet
+
+      - name: M3U'yu repo'ya commit et
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          if [ -f izlemac.m3u ]; then
+            git add izlemac.m3u
+            if git diff --cached --quiet; then
+              echo "Değişiklik yok, commit atlanıyor"
+            else
+              git commit -m "izlemac güncelleme: $(date -u +'%Y-%m-%d %H:%M UTC')"
+              git push
+            fi
+          fi
+
+      - name: Pages'e yayınla
+        uses: actions/configure-pages@v5
+
+      - name: Artifact yükle
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy
+        uses: actions/deploy-pages@v4
