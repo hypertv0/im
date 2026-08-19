@@ -19,6 +19,11 @@ https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
 https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5072/playlist.m3u8
+#EXTINF:-1 tvg-name="Slovan Bratislava - NK Celje (tabii Spor 2)" group-title="Yayinlar",Slovan Bratislava - NK Celje (tabii Spor 2)
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5073/playlist.m3u8
 #EXTINF:-1 tvg-name="NEC Nijmegen - Bodo Glimt (CBC Sport)" group-title="Yayinlar",NEC Nijmegen - Bodo Glimt (CBC Sport)
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -39,6 +44,16 @@ https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
 https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5067/playlist.m3u8
+#EXTINF:-1 tvg-name="Trabzonspor - Ferencvaros (atv)" group-title="Yayinlar",Trabzonspor - Ferencvaros (atv)
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5001/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Fayha - Al Hilal (HT Spor)" group-title="Yayinlar",Al Fayha - Al Hilal (HT Spor)
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5021/playlist.m3u8
 #EXTINF:-1 tvg-name="Twente - Karabağ (CBC Sport)" group-title="Yayinlar",Twente - Karabağ (CBC Sport)
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -104,11 +119,6 @@ https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
 https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5081/playlist.m3u8
-#EXTINF:-1 tvg-name="TV8,5" group-title="Yayinlar",TV8,5
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5052/playlist.m3u8
 #EXTINF:-1 tvg-name="S Sport 2" group-title="Yayinlar",S Sport 2
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -159,6 +169,11 @@ https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
 https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5033/playlist.m3u8
+#EXTINF:-1 tvg-name="tabii Spor 2" group-title="Yayinlar",tabii Spor 2
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5073/playlist.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 2" group-title="Yayinlar",Tivibu Spor 2
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -189,6 +204,11 @@ https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
 https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5031/playlist.m3u8
+#EXTINF:-1 tvg-name="atv" group-title="Yayinlar",atv
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5001/playlist.m3u8
 #EXTINF:-1 tvg-name="FB TV" group-title="Yayinlar",FB TV
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
