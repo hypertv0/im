@@ -1,140 +1,155 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Achuapa - CSD Chiquimulilla" group-title="Yayinlar",Achuapa - CSD Chiquimulilla
+#EXTINF:-1 tvg-name="Martin Landaluce - Jacob Fearnley" group-title="Yayinlar",Martin Landaluce - Jacob Fearnley
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20163004/1/mediaplaylist.m3u8?s=0d091ddc25d316b6868493361a76797da44448fab324c6b1d0abfd2044cc6330&t=1788124767513&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Deportivo San Pedro - Antigua GFC" group-title="Yayinlar",Deportivo San Pedro - Antigua GFC
+https://edge2.xmediaget.com/hls-live/20163735/1/mediaplaylist.m3u8?s=e7bbcf8ae96e2961d716b3270e9c958b9aa81b7fa05316732fdfab4ddb2c1c15&t=1788133202153&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Diablos Rojos - Santos del Potosi" group-title="Yayinlar",Diablos Rojos - Santos del Potosi
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20162966/1/mediaplaylist.m3u8?s=a2492ea0f67f2463ff8091c1036d587f2d9ba8464b822ab3bd8ebe9de5954136&t=1788124771154&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Aleksandar Vukic - Rei Sakamoto" group-title="Yayinlar",Aleksandar Vukic - Rei Sakamoto
+https://edge2.xmediaget.com/hls-live/20163758/1/mediaplaylist.m3u8?s=e2ba226a92b2d3a3c2ef21e1e896791c7a95f5f8e8457a25aaf3861055fe1fec&t=1788133212063&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="AF Sporting San Miguelito - Herrera Panama" group-title="Yayinlar",AF Sporting San Miguelito - Herrera Panama
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20162893/1/mediaplaylist.m3u8?s=61450a63c8fa9914ea82de1444e658451e6b2152d02b85bbe20519e71ef035fb&t=1788124782115&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Trujillanos - Monagas" group-title="Yayinlar",Trujillanos - Monagas
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20162760/1/mediaplaylist.m3u8?s=5ed4af4ed10b337704776ed44a9d4ac93030ff28e4cd912f27b68aff3c8f0a28&t=1788124790710&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Barquisimeto SC - Yaracuyanos" group-title="Yayinlar",Barquisimeto SC - Yaracuyanos
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20162784/1/mediaplaylist.m3u8?s=ad3c9ee6d09fd80bb633bfd4eec520f2b12bcd86a498c177667155ef4ab57889&t=1788124799126&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Columbus Crew - New England Revolution" group-title="Yayinlar",Columbus Crew - New England Revolution
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20162725/1/mediaplaylist.m3u8?s=1b885549b9de4e51820161494fcbd2ab151f82f5c6f96743b2e3354bf9fc93c1&t=1788124802344&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Thiago Agustin Tirante - Adrian Mannarino" group-title="Yayinlar",Thiago Agustin Tirante - Adrian Mannarino
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20162738/1/mediaplaylist.m3u8?s=f690a2185e8657765a58c915b1c1ae10ce24b8ce1ea9a633b057bd368577c852&t=1788124806305&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Bentin Tacna Heroica - Santos Ica" group-title="Yayinlar",Bentin Tacna Heroica - Santos Ica
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20162699/1/mediaplaylist.m3u8?s=210f1415cb49735b5e7e06883977b29e8a4fe186fa77298ffcbbe14a23ac27b4&t=1788124809261&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Salcedo FC - Atletico Vega Real" group-title="Yayinlar",Salcedo FC - Atletico Vega Real
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20162590/1/mediaplaylist.m3u8?s=f87889534564c5460cbad638ab87e882c7ae3acd6ea114f84fd735167cdf29d8&t=1788124812890&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Portland Timbers II - Austin II" group-title="Yayinlar",Portland Timbers II - Austin II
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20162571/1/mediaplaylist.m3u8?s=de0b1b8312298b42d3fd5058d38ca087ea2378f18d8b722d180f16b28cf50956&t=1788124818611&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Universidad O&M - Moca" group-title="Yayinlar",Universidad O&M - Moca
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20162606/1/mediaplaylist.m3u8?s=0074ca67b974786fab0d7f4b1c9ed113dafaccf6092f118a99905908ec46b0b8&t=1788124822356&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Celta Vigo - Athletic Bilbao (S Sport)" group-title="Yayinlar",Celta Vigo - Athletic Bilbao (S Sport)
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5101/playlist.m3u8
-#EXTINF:-1 tvg-name="Cordoba - Granada" group-title="Yayinlar",Cordoba - Granada
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20162283/1/mediaplaylist.m3u8?s=953fbadfb43aa465c188a097a8fe19933e5a4af117d3fd1755cc3788743eac33&t=1788124827515&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Deportivo Miranda - Monagas II" group-title="Yayinlar",Deportivo Miranda - Monagas II
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20162363/1/mediaplaylist.m3u8?s=f73a0e782fa556aa63c4242b83593edcf291eb7689c677ce74686e2c2c85ad22&t=1788124831311&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Puerto Cabello II - Real Frontera" group-title="Yayinlar",Puerto Cabello II - Real Frontera
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20162364/1/mediaplaylist.m3u8?s=84a29d67f5b4aab19c8bef0fb6b47de3aa278001bb3ea830866db0872e957b4e&t=1788124839739&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Universitario de Sucre - Integracion Del Norte San Juan" group-title="Yayinlar",Universitario de Sucre - Integracion Del Norte San Juan
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20162404/1/mediaplaylist.m3u8?s=77d32c04a2ed70447219840c6c56369124df38a8f571fe50a61b370fa263ea54&t=1788124848295&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="CS y Biblioteca Atenas - Club Olimpo" group-title="Yayinlar",CS y Biblioteca Atenas - Club Olimpo
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20162407/1/mediaplaylist.m3u8?s=fca446b8a2d264757928fc00ccb1256b0f7583d35a3a3e7c282df5b4fdf041ae&t=1788124865675&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Celta Vigo - Athletic Bilbao (İDMAN TV)" group-title="Yayinlar",Celta Vigo - Athletic Bilbao (İDMAN TV)
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5132/playlist.m3u8
-#EXTINF:-1 tvg-name="Deportivo Tachira - Caracas" group-title="Yayinlar",Deportivo Tachira - Caracas
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20162916/1/mediaplaylist.m3u8?s=9452f28f2883b3081763a7e1ff4581b547954ae50fb073a03f72a92a593618c6&t=1788124873739&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Independiente Medellin - Club Llaneros" group-title="Yayinlar",Independiente Medellin - Club Llaneros
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20162975/1/mediaplaylist.m3u8?s=25a86c64820aa0d15bbc5c2bb5646a19343d88d4764377b03a8381b3b8240ea9&t=1788124876811&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="CA Independiente - Gimnasia Mendoza (Spor Smart)" group-title="Yayinlar",CA Independiente - Gimnasia Mendoza (Spor Smart)
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5091/playlist.m3u8
-#EXTINF:-1 tvg-name="Bahia - Internacional (Spor Smart 2)" group-title="Yayinlar",Bahia - Internacional (Spor Smart 2)
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5092/playlist.m3u8
+https://edge2.xmediaget.com/hls-live/20163737/1/mediaplaylist.m3u8?s=e620be883cc3e19a448cad2c5d7c6ce280bdc075bba34e9ca48fbef180b9cdc4&t=1788133220606&ai=5000&av=1&ui=0
 #EXTINF:-1 tvg-name="M.Navone - N.Djokovic (Eurosport 2)" group-title="Yayinlar",M.Navone - N.Djokovic (Eurosport 2)
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
 https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5112/playlist.m3u8
+#EXTINF:-1 tvg-name="Carabobo - Zamora" group-title="Yayinlar",Carabobo - Zamora
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20163598/1/mediaplaylist.m3u8?s=6874fde830850617f4195289188046d40311dfddc27a407d2df66407765ed6b8&t=1788133228752&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Emelec - Leones Del Norte" group-title="Yayinlar",Emelec - Leones Del Norte
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20163604/1/mediaplaylist.m3u8?s=6af4e8dac43c040554962103bae11e62c26440384ab99fbb63a762864e1ff569&t=1788133237265&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="San Marcos - Walter Ferretti" group-title="Yayinlar",San Marcos - Walter Ferretti
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20163661/1/mediaplaylist.m3u8?s=97ef6b0192b720edf6e6c2e9917eafbd03906f60362be8e1ce9d5cb3410074e5&t=1788133245717&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="St. Louis City - Dallas" group-title="Yayinlar",St. Louis City - Dallas
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20163593/1/mediaplaylist.m3u8?s=937fec48fbbd809e11b1ccaa61aaed1f3baab4ddcf678fd60baffae1905eedb5&t=1788133263172&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="New England Revolution II - Huntsville City" group-title="Yayinlar",New England Revolution II - Huntsville City
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20163651/1/mediaplaylist.m3u8?s=4c51faa24b38cfda6ed813ab268c464ebf45ab1b7626509426a9ae44444c65ca&t=1788133266739&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Houston Dynamo II - Minnesota United II" group-title="Yayinlar",Houston Dynamo II - Minnesota United II
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20163649/1/mediaplaylist.m3u8?s=4d71201fd3c70bcd9c2f979a39bfeacec1cc34d2c81d91fe5b1a435e24e97c50&t=1788133275198&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Vancouver Whitecaps II - Sporting Kansas City II" group-title="Yayinlar",Vancouver Whitecaps II - Sporting Kansas City II
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20163653/1/mediaplaylist.m3u8?s=8431ff360b59c023aa0ffd1bb6c5e226717edc02664f000edb851fa669dee1c9&t=1788133283710&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Orlando City II - Crown Legacy" group-title="Yayinlar",Orlando City II - Crown Legacy
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20163652/1/mediaplaylist.m3u8?s=8b1c4a523ee6612dab65e610e1668c8101153bf2ed8526e24f68d9853fd0d262&t=1788133292213&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Soles De Mexicali - El Calor de Cancun" group-title="Yayinlar",Soles De Mexicali - El Calor de Cancun
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20163681/1/mediaplaylist.m3u8?s=392ba97fc047f61651a428338a54e5f430686bcebd387506dc8eeed255e171c9&t=1788133300680&ai=5000&av=1&ui=0
 #EXTINF:-1 tvg-name="E.Svitolina - S.Sierra (Eurosport 2)" group-title="Yayinlar",E.Svitolina - S.Sierra (Eurosport 2)
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
 https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5112/playlist.m3u8
-#EXTINF:-1 tvg-name="San Marcos - Walter Ferretti" group-title="Yayinlar",San Marcos - Walter Ferretti
+#EXTINF:-1 tvg-name="Mariano Navone - Novak Djokovic" group-title="Yayinlar",Mariano Navone - Novak Djokovic
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20162668/1/mediaplaylist.m3u8?s=06fa9904d017a3fd96f9d0698f134d9043f6ea0abd236657cbffbd9641ee4fea&t=1788124888685&ai=5000&av=1&ui=0
+https://edge2.xmediaget.com/hls-live/20163591/1/mediaplaylist.m3u8?s=1f8e69ae996a9dfb0546bc52c6a9fb9d79b2d19303199e5bfecc8d31a53d1acb&t=1788133304561&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Bahia - Internacional (Spor Smart 2)" group-title="Yayinlar",Bahia - Internacional (Spor Smart 2)
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5092/playlist.m3u8
+#EXTINF:-1 tvg-name="CA Independiente - Gimnasia Mendoza (Spor Smart)" group-title="Yayinlar",CA Independiente - Gimnasia Mendoza (Spor Smart)
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5091/playlist.m3u8
+#EXTINF:-1 tvg-name="Fuerza Regia - Abejas de Leon" group-title="Yayinlar",Fuerza Regia - Abejas de Leon
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20163446/1/mediaplaylist.m3u8?s=4bcab0f1501c29c1d18e42b83a1a9ac44def8a42c1a8e37c9631941c037d900a&t=1788133309996&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Sebastian Gorzny - Raphael Collignon" group-title="Yayinlar",Sebastian Gorzny - Raphael Collignon
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20163341/1/mediaplaylist.m3u8?s=7ddecb412d59333d9377f7334e769c1368366bae46f6c72134246bf2fb0a5539&t=1788133312700&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="San Carlos - Puntarenas" group-title="Yayinlar",San Carlos - Puntarenas
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20163324/1/mediaplaylist.m3u8?s=86deea180bb100c447c4b73682589d2fb7fecc425a54f87f75c56229a3f1bab9&t=1788133316866&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Cerro Largo - Liverpool Montevideo" group-title="Yayinlar",Cerro Largo - Liverpool Montevideo
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20163298/1/mediaplaylist.m3u8?s=0ad84fcdd43f8e2474ad32b6821e41c8d447be9b75316fee2805358acb057797&t=1788133320278&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Dorados de Chihuahua - Mineros de Zacatecas" group-title="Yayinlar",Dorados de Chihuahua - Mineros de Zacatecas
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20163357/1/mediaplaylist.m3u8?s=fafdc279f8ae7a5f5582858a2e1c679578c4d7ec2fbcfd387add5863850d7949&t=1788133323022&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Acambaro - Club Canoneros Marina" group-title="Yayinlar",Acambaro - Club Canoneros Marina
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20163330/1/mediaplaylist.m3u8?s=8c11256402f6414c1a448cf58703b5772bd748d21d16c804dd9590980f8b6ba4&t=1788133331453&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Pacific - HFX Wanderers" group-title="Yayinlar",Pacific - HFX Wanderers
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20163310/1/mediaplaylist.m3u8?s=e8e5c98d97458721be243ce498aa0a4f8932659b724935d686fa5793b7eb59aa&t=1788133337749&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Aleksandar Vukic - Rei Sakamoto" group-title="Yayinlar",Aleksandar Vukic - Rei Sakamoto
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20162893/1/mediaplaylist.m3u8?s=96d8c58bccbc4a56a91dcfda5469b46617430a822346d04266f2cb7b984d2f20&t=1788133347147&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Thiago Agustin Tirante - Adrian Mannarino" group-title="Yayinlar",Thiago Agustin Tirante - Adrian Mannarino
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20162738/1/mediaplaylist.m3u8?s=dc1d16f82c3f1959638a508e2951f0da0d9bbfe35a2cac1be6f1550ac5931519&t=1788133355554&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Deportivo La Guaira - Estudiantes de Merida" group-title="Yayinlar",Deportivo La Guaira - Estudiantes de Merida
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20163794/1/mediaplaylist.m3u8?s=3caee48d7d63d3da2eea26a4c5a8d7093afc4173f343b20b0b45ee9a34931af2&t=1788133358929&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Club Blooming - Oriente Petrolero" group-title="Yayinlar",Club Blooming - Oriente Petrolero
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20163799/1/mediaplaylist.m3u8?s=587e5501e63f11776d7cd5ed0d4fedbe865d2a59adaef9ef8915ccdceeb4c6b5&t=1788133367405&ai=5000&av=1&ui=0
 #EXTINF:-1 tvg-name="Independiente Rivadavia - Racing Club (Spor Smart)" group-title="Yayinlar",Independiente Rivadavia - Racing Club (Spor Smart)
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
 https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5091/playlist.m3u8
-#EXTINF:-1 tvg-name="A.Bublik - J.Wolf (Eurosport 2)" group-title="Yayinlar",A.Bublik - J.Wolf (Eurosport 2)
+#EXTINF:-1 tvg-name="V.Williams - S.Kenin (Eurosport 2)" group-title="Yayinlar",V.Williams - S.Kenin (Eurosport 2)
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
 https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5112/playlist.m3u8
-#EXTINF:-1 tvg-name="V.Williams - S.Kenin (Eurosport 2)" group-title="Yayinlar",V.Williams - S.Kenin (Eurosport 2)
+#EXTINF:-1 tvg-name="A.Bublik - J.Wolf (Eurosport 2)" group-title="Yayinlar",A.Bublik - J.Wolf (Eurosport 2)
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
@@ -159,16 +174,26 @@ https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
 https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5102/playlist.m3u8
-#EXTINF:-1 tvg-name="Beşiktaş - Çorum FK (beIN Sports 2)" group-title="Yayinlar",Beşiktaş - Çorum FK (beIN Sports 2)
+#EXTINF:-1 tvg-name="Fransa - Türkiye (tabii Spor)" group-title="Yayinlar",Fransa - Türkiye (tabii Spor)
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5063/playlist.m3u8
+https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5071/playlist.m3u8
 #EXTINF:-1 tvg-name="Amedspor - Trabzonspor (beIN Sports 1)" group-title="Yayinlar",Amedspor - Trabzonspor (beIN Sports 1)
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
 https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5062/playlist.m3u8
+#EXTINF:-1 tvg-name="Beşiktaş - Çorum FK (beIN Sports 2)" group-title="Yayinlar",Beşiktaş - Çorum FK (beIN Sports 2)
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5063/playlist.m3u8
+#EXTINF:-1 tvg-name="Türkiye - Hırvatistan (tabii Spor)" group-title="Yayinlar",Türkiye - Hırvatistan (tabii Spor)
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5071/playlist.m3u8
 #EXTINF:-1 tvg-name="Aston Villa - Arsenal (beIN Sports 3)" group-title="Yayinlar",Aston Villa - Arsenal (beIN Sports 3)
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -199,17 +224,22 @@ https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
 https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5032/playlist.m3u8
-#EXTINF:-1 tvg-name="Ümraniyespor - Muğlaspor (TRT Spor)" group-title="Yayinlar",Ümraniyespor - Muğlaspor (TRT Spor)
+#EXTINF:-1 tvg-name="Ümraniyespor - Muğlaspor (tabii Spor 6)" group-title="Yayinlar",Ümraniyespor - Muğlaspor (tabii Spor 6)
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5032/playlist.m3u8
-#EXTINF:-1 tvg-name="Boluspor - Keçiörengücü (TRT Spor)" group-title="Yayinlar",Boluspor - Keçiörengücü (TRT Spor)
+https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5077/playlist.m3u8
+#EXTINF:-1 tvg-name="Boluspor - Keçiörengücü (tabii Spor 6)" group-title="Yayinlar",Boluspor - Keçiörengücü (tabii Spor 6)
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5032/playlist.m3u8
+https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5077/playlist.m3u8
 #EXTINF:-1 tvg-name="Sarıyer - Pendikspor (TRT Spor)" group-title="Yayinlar",Sarıyer - Pendikspor (TRT Spor)
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://e-aga-m.3289439f1645c102498296d74fc626b9.online/bc2b05d321cb80050c5d035a9daeb26d/-/5032/playlist.m3u8
+#EXTINF:-1 tvg-name="Torino - Monza (TRT Spor)" group-title="Yayinlar",Torino - Monza (TRT Spor)
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
