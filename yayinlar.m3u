@@ -1,1 +1,71 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Forward Madison - One Knoxville" group-title="Yayinlar",Forward Madison - One Knoxville
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20195581/1/mediaplaylist.m3u8?s=f07f47e9d379aa465a397e58b8f9d17724db130fade22b5c0b221a5895aad273&t=1788395197410&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Fort Wayne - Richmond Kickers" group-title="Yayinlar",Fort Wayne - Richmond Kickers
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20195390/1/mediaplaylist.m3u8?s=085ddff4e718c035e173955001fac952ccac4a751e87a5987aa4346415a30804&t=1788395206661&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="New York Cosmos - Sarasota Paradise" group-title="Yayinlar",New York Cosmos - Sarasota Paradise
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20195388/1/mediaplaylist.m3u8?s=37154d91b3ac771d50af89fab8793fc8a338475c583838154d0344f855423e80&t=1788395214749&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Charlotte Independence - Portland Hearts of Pine" group-title="Yayinlar",Charlotte Independence - Portland Hearts of Pine
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20195391/1/mediaplaylist.m3u8?s=a8ceb1316d93b22506a2c85527f9c83485bdf7cf7d8ec9e52f517b5dbff326d0&t=1788395222710&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Dino Prizmic - Tommy Paul" group-title="Yayinlar",Dino Prizmic - Tommy Paul
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20195448/1/mediaplaylist.m3u8?s=9c366f0c9242b72010a0714700762533dc8f7413bbcaefe18063c8ee562e2d49&t=1788395225474&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Deportivo Lara - Barquisimeto SC" group-title="Yayinlar",Deportivo Lara - Barquisimeto SC
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20195221/1/mediaplaylist.m3u8?s=5184a4cb9c29c90f6dee5556067b3cadfc153ce975fbe0f803cadcc94479d4f7&t=1788395231781&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Portsmouth Bombers - Harlem United" group-title="Yayinlar",Portsmouth Bombers - Harlem United
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20195204/1/mediaplaylist.m3u8?s=212b3675a2591a4ff630b1479ef5b80e0d217286bd472e0465dc2d1c1d112918&t=1788395240125&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Westchester SC - Chattanooga Red Wolves" group-title="Yayinlar",Westchester SC - Chattanooga Red Wolves
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20195219/1/mediaplaylist.m3u8?s=3ab55ec0b72f3ccfb6715f31530d058473b885dd715ff8c9890e61ca0c37b8cc&t=1788395247979&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Charleston Battery - Hartford Athletic" group-title="Yayinlar",Charleston Battery - Hartford Athletic
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20195218/1/mediaplaylist.m3u8?s=ed9a77c4253aec93e1f17aba040617e726f608ac945d77e4677f768c6ca4367f&t=1788395253148&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="James Duckworth - Yibing Wu" group-title="Yayinlar",James Duckworth - Yibing Wu
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20195058/1/mediaplaylist.m3u8?s=30133e449623afd8aeb3b056320015e05079cc8a1571c32077c1eb1c5b6549ae&t=1788395270169&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Matteo Berrettini - Mariano Navone" group-title="Yayinlar",Matteo Berrettini - Mariano Navone
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20195146/1/mediaplaylist.m3u8?s=5e7be4a7e3851c7d9dd48a804b28a730e3955e1702fd8d2d09646445c766b885&t=1788395273992&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Alexander Bublik - Adrian Mannarino" group-title="Yayinlar",Alexander Bublik - Adrian Mannarino
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20195361/1/mediaplaylist.m3u8?s=f1d337b1da431c6fad98d73f955c467e09b8c566326a7d6b90a2d5189cb63494&t=1788395277527&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Lloyd Harris - Stefanos Tsitsipas" group-title="Yayinlar",Lloyd Harris - Stefanos Tsitsipas
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20194568/1/mediaplaylist.m3u8?s=648b0fa8523047bfb65444a9424578e9620a7bbdbe2807bcb041db919e07085b&t=1788395280195&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Rei Sakamoto - Frances Tiafoe" group-title="Yayinlar",Rei Sakamoto - Frances Tiafoe
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20195152/1/mediaplaylist.m3u8?s=edf0e30946486c4553ee85a27c2b16e5c2c4861b458502d07c79d96aef12da96&t=1788395283778&ai=5000&av=1&ui=0
