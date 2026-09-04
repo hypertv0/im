@@ -1,16 +1,71 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Alto Zambeze - Uniao do Nzinga" group-title="Yayinlar",Alto Zambeze - Uniao do Nzinga
+#EXTINF:-1 tvg-name="Wildcats - Bosses" group-title="Yayinlar",Wildcats - Bosses
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20208021/1/mediaplaylist.m3u8?s=c1f2b8993892cc01da9d0bbc766206b71cf678044a03ad5d3cee0bf639078b3b&t=1788499161963&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Sofia Costoulas - Zhuoxuan Bai" group-title="Yayinlar",Sofia Costoulas - Zhuoxuan Bai
+https://edge2.xmediaget.com/hls-live/20210233/1/mediaplaylist.m3u8?s=a46e7c7f912697b555ce042b58709f4ea7d39ddabb6f99d2b5db21387e9acb2b&t=1788515280925&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Locomotive - Yenisei" group-title="Yayinlar",Locomotive - Yenisei
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20208056/1/mediaplaylist.m3u8?s=59e8c329028517eaf684acd87840c21227fa8d585e6d1d3d2b6064f117645b95&t=1788499165956&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Santa Felicia - Calle 74" group-title="Yayinlar",Santa Felicia - Calle 74
+https://edge2.xmediaget.com/hls-live/20209860/1/mediaplaylist.m3u8?s=f5274c1566e61bf6623f583c84f407c2e0fd38e2ffa2ee9ae75b706d602c81d0&t=1788515287017&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Miriana Tona - Ksenia Zaytseva" group-title="Yayinlar",Miriana Tona - Ksenia Zaytseva
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20207627/1/mediaplaylist.m3u8?s=89d1e1e5b45cc6337f25807b08574a85ebff77357bba373b4b6332d520a3e434&t=1788499177938&ai=5000&av=1&ui=0
+https://edge2.xmediaget.com/hls-live/20210231/1/mediaplaylist.m3u8?s=1fd04fc96be6e71d954a32ee914bc47965936462eb9c0076b728fa2be0e05588&t=1788515290769&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Shenyang Seagulls - Fuzhou Guardians" group-title="Yayinlar",Shenyang Seagulls - Fuzhou Guardians
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20210129/1/mediaplaylist.m3u8?s=51074e0f68316322be775c7f92bf2af07b960f2c162c0f7d1421e852d31bb432&t=1788515301958&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Tutur - Nguling" group-title="Yayinlar",Tutur - Nguling
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20210028/1/mediaplaylist.m3u8?s=ea89e01df1210724124e5c5693edb6ca1faf212b078ff5f54d47d3ef644f3921&t=1788515304486&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Dimitris Sakellaridis - Bruno Fernandez" group-title="Yayinlar",Dimitris Sakellaridis - Bruno Fernandez
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20210088/1/mediaplaylist.m3u8?s=963e411d94501b413442b777c6ead24e6e737908961ffc6eab3359ad48f94bf2&t=1788515321706&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Nino Ehrenschneider - Eero Vasa" group-title="Yayinlar",Nino Ehrenschneider - Eero Vasa
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20210094/1/mediaplaylist.m3u8?s=f84a3bf000fa9fcd33d60c9fbd229899c627b75b854a5a8c4366f306456be16a&t=1788515327342&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Mihail Ivanov - Igor Mandou Berranger" group-title="Yayinlar",Mihail Ivanov - Igor Mandou Berranger
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20210111/1/mediaplaylist.m3u8?s=955706302663ea1f10840e6de63dfa0151386336f4efaac3d6c059a14769a1ab&t=1788515337829&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Bravos da Quissama - Independente Candomble Bantu" group-title="Yayinlar",Bravos da Quissama - Independente Candomble Bantu
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20209959/1/mediaplaylist.m3u8?s=76f47fdcac5429de8eb5c53f6f0fd076dc38406f711e7b36eee446c9b0763626&t=1788515350858&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Mizoram - Saikhamakawn" group-title="Yayinlar",Mizoram - Saikhamakawn
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20210078/1/mediaplaylist.m3u8?s=881ab5f97e14d0b1ed11237e39eec1d2b5d8577021d681534e424fb9ce339f90&t=1788515353786&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Toby Clarke - David Petrovic" group-title="Yayinlar",Toby Clarke - David Petrovic
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20209960/1/mediaplaylist.m3u8?s=d0266361fb0805f04ec9c35349ddafc5fb7c9b25046277c39aa85e01cf5f3b98&t=1788515358805&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Nikita Belozertsev - Drazen Petrovic" group-title="Yayinlar",Nikita Belozertsev - Drazen Petrovic
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20209828/1/mediaplaylist.m3u8?s=c285ab2740f8f692df1545310cf2cc7f6a8d701ee8acc23fc615cb32d5c6733b&t=1788515369265&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Parramatta - Prospect United SC" group-title="Yayinlar",Parramatta - Prospect United SC
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20210266/1/mediaplaylist.m3u8?s=718fa920f1d36880c6ea35bc1466acb6c4f44ab34c859f4eb45ca109264b4e21&t=1788515380231&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Yushu Yak - Bay Area All-Stars" group-title="Yayinlar",Yushu Yak - Bay Area All-Stars
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20209725/1/mediaplaylist.m3u8?s=7121ef243d6b5136d39901566d232ba87632767c27725e76c4b86dedf9e9ccf9&t=1788515385840&ai=5000&av=1&ui=0
