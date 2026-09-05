@@ -1,1 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Gallos de Aguascalientes - Jaibos de Tampico" group-title="Yayinlar",Gallos de Aguascalientes - Jaibos de Tampico
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20218001/1/mediaplaylist.m3u8?s=f0dced8498e40f2b3bcc11241270ca52bdaf47e9736a70c48975600832ca18eb&t=1788575026307&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Guerreros del Pacifico - Ciervos" group-title="Yayinlar",Guerreros del Pacifico - Ciervos
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20217762/1/mediaplaylist.m3u8?s=852233d888be030669c9ef5395b23fb6a26fad1cef10f99af99284b5dad7cbaf&t=1788575032318&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="North Texas - Real Monarchs" group-title="Yayinlar",North Texas - Real Monarchs
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20217528/1/mediaplaylist.m3u8?s=ae54f14bcbf692f6985fd4cee17fdd0f63bec0e8b010e5cbeca505e97ab7f575&t=1788575040801&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Deportes Puerto Montt - Curico Unido" group-title="Yayinlar",Deportes Puerto Montt - Curico Unido
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20217451/1/mediaplaylist.m3u8?s=d57bde31f2baeade35d4e15ece8fb56f6ac6410033b1dda3ef51d04e3d3b952c&t=1788575043659&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Joseph Hernandez - Antonio Prat" group-title="Yayinlar",Joseph Hernandez - Antonio Prat
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20217431/1/mediaplaylist.m3u8?s=f2841ef17f30cdcef05e378b8ae8e41776dc1a8e0bb815822e3e61ecf95069fc&t=1788575046915&ai=5000&av=1&ui=0
