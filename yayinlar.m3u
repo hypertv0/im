@@ -1,1 +1,66 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Emelec - Manta" group-title="Yayinlar",Emelec - Manta
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20249360/1/mediaplaylist.m3u8?s=08fae5e70862de894a0b7ea700898a151d3943873fa1720d890c240665717aa8&t=1788828790716&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Mushuc Runa - Leones Del Norte" group-title="Yayinlar",Mushuc Runa - Leones Del Norte
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20249361/1/mediaplaylist.m3u8?s=674f2a2f5bb24df3882b418b5ec86335920e5bbfa804700eb6ce9b40dcec59f3&t=1788828793219&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Nao Hibino - Maria Camila Torres Murcia" group-title="Yayinlar",Nao Hibino - Maria Camila Torres Murcia
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20249325/1/mediaplaylist.m3u8?s=21d06fe91a02aa6867e60c5179fe294ba8ef11222fcc377dfe46c366feba9198&t=1788828801081&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Mighty Avengers - Bath Estate" group-title="Yayinlar",Mighty Avengers - Bath Estate
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20249155/1/mediaplaylist.m3u8?s=267db1d948f39a95bef826856d64e6141c483fbfca52bcda9bf124a7a2cc7284&t=1788828808925&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Dublanc - Mahaut Soca Strikers" group-title="Yayinlar",Dublanc - Mahaut Soca Strikers
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20249154/1/mediaplaylist.m3u8?s=9f35feaef2bd365b3cdb51f5ed5dfa7ce83c099f01bc9c23768cb072f3b3a6b4&t=1788828811112&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Dimitri Bagaric - Matthew Burton" group-title="Yayinlar",Dimitri Bagaric - Matthew Burton
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20249000/1/mediaplaylist.m3u8?s=e9e05f763e94691919e71d71e109f73e45d6568beb69771e63b0c86b5eebaa92&t=1788828814299&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Olimpia Kings - Colonias Gold" group-title="Yayinlar",Olimpia Kings - Colonias Gold
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20248967/1/mediaplaylist.m3u8?s=85a135e3a518cc3b82e9307f9946f33d0df774d49f6c43f4175634e4ddd8ecb0&t=1788828817381&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Allegheny Gators - Geneseo Knights" group-title="Yayinlar",Allegheny Gators - Geneseo Knights
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20248989/1/mediaplaylist.m3u8?s=787f0c4c38a3b3d57ebf6bc10d81b1407f91a185e7f60d839346d1802e5571cd&t=1788828821776&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Emon Van Loben Sels - Miles Clark" group-title="Yayinlar",Emon Van Loben Sels - Miles Clark
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20249010/1/mediaplaylist.m3u8?s=94eab9866b991c146b2b82725443895cbd5303ca278f1e6f157d03bb614e6fd1&t=1788828825207&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Vendula Valdmannova - Carol Young Suh Lee" group-title="Yayinlar",Vendula Valdmannova - Carol Young Suh Lee
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20248877/1/mediaplaylist.m3u8?s=3730b78045436c1fd6c495d139b9f0461e4ecc5cbd100d2125326038654af0a5&t=1788828828232&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Zach Stephens - Pavel Bushuev" group-title="Yayinlar",Zach Stephens - Pavel Bushuev
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20248944/1/mediaplaylist.m3u8?s=9c6d3daac9feb6a546457776a711c5738699abe5fdc4a8674f003b95418fe37c&t=1788828834403&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Karen Khachanov - Learner Tien" group-title="Yayinlar",Karen Khachanov - Learner Tien
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20248423/1/mediaplaylist.m3u8?s=311f4a1d9d80108af98e2237a8c2134ecdaeae657307dd9e4220a59f45a16916&t=1788828836557&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Arthur Gea - Botic Van De Zandschulp" group-title="Yayinlar",Arthur Gea - Botic Van De Zandschulp
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20247939/1/mediaplaylist.m3u8?s=2bec2a477c463728d131a4d8f1622c21d5a0a0864aaf1a09de63932e1239937b&t=1788828839939&ai=5000&av=1&ui=0
