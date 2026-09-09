@@ -1,56 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Ryota Tanuma - Naoya Honda" group-title="Yayinlar",Ryota Tanuma - Naoya Honda
+#EXTINF:-1 tvg-name="Melburne - Kings" group-title="Yayinlar",Melburne - Kings
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20260605/1/mediaplaylist.m3u8?s=c0a5c6127330e6444c44f4650dc7ce66c4e8e90554a26f2be3e7d70d4639862f&t=1788917157081&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Keisuke Saitoh - Kokoro Isomura" group-title="Yayinlar",Keisuke Saitoh - Kokoro Isomura
+https://edge2.xmediaget.com/hls-live/20262590/1/mediaplaylist.m3u8?s=83aa02193e6304c2029c4ca1e965722f313974f977e68eef4f6e2f956e539d1a&t=1788934614344&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Ningbo Waves - Shenyang Seagulls" group-title="Yayinlar",Ningbo Waves - Shenyang Seagulls
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20260600/1/mediaplaylist.m3u8?s=054125b56777929b23824d56e81849e209b7c2f52383996b1e4cd4c74bc2b423&t=1788917168480&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Ryuki Matsuda - Yu Tanaka" group-title="Yayinlar",Ryuki Matsuda - Yu Tanaka
+https://edge2.xmediaget.com/hls-live/20262569/1/mediaplaylist.m3u8?s=c1cda191f6efb14a7365942f214113c31bcf1848e794140224854a8d69d86453&t=1788934618771&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="National Economics University - Hoa Sen University" group-title="Yayinlar",National Economics University - Hoa Sen University
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20260595/1/mediaplaylist.m3u8?s=81fcbd9126175a7504ede0419f303df46576bae4f45b854c10e74b67ad1dd811&t=1788917179577&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Jazmin Ortenzi - Mary Stoiana" group-title="Yayinlar",Jazmin Ortenzi - Mary Stoiana
+https://edge2.xmediaget.com/hls-live/20262367/1/mediaplaylist.m3u8?s=5cc12f2c5df544f5554d99a318cf5342a0fce53b59743a9a5135a794f0dbea09&t=1788934623786&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Patriots - Bullets" group-title="Yayinlar",Patriots - Bullets
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20260498/1/mediaplaylist.m3u8?s=ae0833c3d5ea9792fdeccf0a7661037f72e3e1561abd7cce39ace9365f9ab85d&t=1788917191466&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Oriente Petrolero - Guabirá" group-title="Yayinlar",Oriente Petrolero - Guabirá
+https://edge2.xmediaget.com/hls-live/20261369/1/mediaplaylist.m3u8?s=8cff584ba59ce125dbe9704d7da5ceb01489b443735d3fc81ba76b97f9f8b366&t=1788934629417&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Fangran Tian - Han Shi" group-title="Yayinlar",Fangran Tian - Han Shi
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20260390/1/mediaplaylist.m3u8?s=5de9003e1d0d388f4a7cebadac95f3ca3c9ccc7dc290fecd02465ba947c2d0aa&t=1788917194904&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="San Antonio Texas - Louisville City" group-title="Yayinlar",San Antonio Texas - Louisville City
+https://edge2.xmediaget.com/hls-live/20262114/1/mediaplaylist.m3u8?s=0647658c7714a5f8e46b92138855db111571af242e4f2fa45e75a6ff90801079&t=1788934632316&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Herois do Huambo - Sporting do Imbondeiro" group-title="Yayinlar",Herois do Huambo - Sporting do Imbondeiro
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20260389/1/mediaplaylist.m3u8?s=5a89f8d7a21892b3866e29263bd76507d02f47b264c9f7f9cceeb2b678cfa288&t=1788917203237&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Dominika Salkova - Julia Riera" group-title="Yayinlar",Dominika Salkova - Julia Riera
+https://edge2.xmediaget.com/hls-live/20262377/1/mediaplaylist.m3u8?s=cb3c529c251690f3d7d68fc5ac6d55eff1f1605cd92b04519dc9dc53550fa533&t=1788934635142&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Kokushikan University - Tokai Gakuen University" group-title="Yayinlar",Kokushikan University - Tokai Gakuen University
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20260323/1/mediaplaylist.m3u8?s=d901f91c661fe64abd6ca78f245121640b1f44619fb9b5ae76f8a20d066268fc&t=1788917211646&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Concordia Chicago Cougars - Augustana Vikings" group-title="Yayinlar",Concordia Chicago Cougars - Augustana Vikings
+https://edge2.xmediaget.com/hls-live/20262131/1/mediaplaylist.m3u8?s=0dcce30d92e5941d1728c0129852477d081554346fd1e62813fa238c3eedc463&t=1788934637981&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Chan-Yeong Oh - Toshihide Matsui" group-title="Yayinlar",Chan-Yeong Oh - Toshihide Matsui
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20260251/1/mediaplaylist.m3u8?s=a566ee9fd16f93a5f5c17f62d7c3ac192d5e41c4b75ef0dee158fae8f0d9f18d&t=1788917215291&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="INCA Aruba - Atletico Balboa" group-title="Yayinlar",INCA Aruba - Atletico Balboa
+https://edge2.xmediaget.com/hls-live/20261800/1/mediaplaylist.m3u8?s=baf6b75d51d708d3bc20d5fb1c98b368e57445a4d4a15a706e510de8f49d2990&t=1788934657159&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="JiaYi Wang - Darya Astakhova" group-title="Yayinlar",JiaYi Wang - Darya Astakhova
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20260221/1/mediaplaylist.m3u8?s=13f63f980a1a55aa3f7fc5decb5a6479c592ba0405d20425a22c273f442f6064&t=1788917226133&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Cuiaba - Athletic Club MG" group-title="Yayinlar",Cuiaba - Athletic Club MG
+https://edge2.xmediaget.com/hls-live/20261511/1/mediaplaylist.m3u8?s=52d888e2018d964cd5441cdd53c6d69b9c0d0a7789d7d5ef02933292ac7c6754&t=1788934668235&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Ben Shelton - Carlos Alcaraz Garfia" group-title="Yayinlar",Ben Shelton - Carlos Alcaraz Garfia
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20259966/1/mediaplaylist.m3u8?s=64e53521f76af9f11d8d5c47d9552d9b91a94f9e5bd08253096935d84577b823&t=1788917237050&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Montevideo - Atletico Olimpia" group-title="Yayinlar",Montevideo - Atletico Olimpia
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20259975/1/mediaplaylist.m3u8?s=92adc8cf9aa9eee3d64ae4cb13950754c90bd8d8879c9f27766df1db562a2260&t=1788917240255&ai=5000&av=1&ui=0
+https://edge2.xmediaget.com/hls-live/20261215/1/mediaplaylist.m3u8?s=d85f14016b11d19522ef97a3bd7646c16849290bc8cebb5aae80c6b799f73ce1&t=1788934671520&ai=5000&av=1&ui=0
