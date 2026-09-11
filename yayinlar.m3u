@@ -1,56 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Lobos Plateados - Freseras Irapuato" group-title="Yayinlar",Lobos Plateados - Freseras Irapuato
+#EXTINF:-1 tvg-name="Welwitschia Mirabilis - Bravos da Quissama" group-title="Yayinlar",Welwitschia Mirabilis - Bravos da Quissama
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20282891/1/mediaplaylist.m3u8?s=a91d8ababa9fba95c80f80d2aa613caf1dc6ddcf114c3726ef4225ee6e269c46&t=1789093568722&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Daria Khomutyanskaya - Darya Astakhova" group-title="Yayinlar",Daria Khomutyanskaya - Darya Astakhova
+https://edge2.xmediaget.com/hls-live/20284852/1/mediaplaylist.m3u8?s=8b2d6a4ab030389eccacf012788f1bc774798a3ef181d1dd4fd4d5ec3eed5f1f&t=1789111451941&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Forward Novosibirsk - Arktika" group-title="Yayinlar",Forward Novosibirsk - Arktika
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20282892/1/mediaplaylist.m3u8?s=464bce0dafa03f15dee72a21775b27e8e077ea763872a681d8485078b50ca43b&t=1789093576708&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Elijah Cham - Eric Tripathi" group-title="Yayinlar",Elijah Cham - Eric Tripathi
+https://edge2.xmediaget.com/hls-live/20284899/1/mediaplaylist.m3u8?s=4ea093c05357c165b07e30d64df17a319990b5e350a1cb8a52d87caea6da22bd&t=1789111454056&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Next - Fire shot" group-title="Yayinlar",Next - Fire shot
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20282753/1/mediaplaylist.m3u8?s=a2c7d9bbc20a2ae6f3ce14bec16526aff321fea08d997a89b22c37a557c5f530&t=1789093579303&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Cesar Cruz - Antreas Djakouris" group-title="Yayinlar",Cesar Cruz - Antreas Djakouris
+https://edge2.xmediaget.com/hls-live/20284891/1/mediaplaylist.m3u8?s=7787b3d29ec05619c5aef31880b6659668b6e70a6c53c625b9bf0e70cccdee19&t=1789111466161&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Ho Chi Minh City University of Transport - National Economics University" group-title="Yayinlar",Ho Chi Minh City University of Transport - National Economics University
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20282729/1/mediaplaylist.m3u8?s=9122284995a27062e2bcab682c943271a6911561d77d6bae5e8c4594246b9c51&t=1789093590994&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Santiagueno - Cojute" group-title="Yayinlar",Santiagueno - Cojute
+https://edge2.xmediaget.com/hls-live/20284525/1/mediaplaylist.m3u8?s=ced09ecf64c43c9e4ad07281cb51fc848b656564c6775cba62b148a3950196b6&t=1789111471734&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Xinxin Yao - Alexandra Shubladze" group-title="Yayinlar",Xinxin Yao - Alexandra Shubladze
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20282609/1/mediaplaylist.m3u8?s=8fcaf67db71b87dd15324106b0d6c8be2945123969d51aa15279e86cc6eeab92&t=1789093600954&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="El Calor de Cancun - Panteras de Aguascalientes" group-title="Yayinlar",El Calor de Cancun - Panteras de Aguascalientes
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20282653/1/mediaplaylist.m3u8?s=1b0a056204851e7a23ec36824ec8cea64ec9998c19faf54b8e33762593a9fd09&t=1789093609004&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Çin - Kazakistan" group-title="Yayinlar",Çin - Kazakistan
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20282487/1/mediaplaylist.m3u8?s=cbd90612f632706c0ee89e9593c2eabae3ccf58e586b6d5da06de5629a7f09ed&t=1789093620467&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Alebrijes de Oaxaca - Alacranes de Durango" group-title="Yayinlar",Alebrijes de Oaxaca - Alacranes de Durango
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20282452/1/mediaplaylist.m3u8?s=f3680fea2a98704ca4581c0fe39b0064c97e1e739faa55a54e762d5ae5fe119f&t=1789093623946&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Scott Jones - Matthew Burton" group-title="Yayinlar",Scott Jones - Matthew Burton
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20282603/1/mediaplaylist.m3u8?s=4c10054d5282c7756a0c72a0ad641349b013d5c96a874acbff4c9cacb32571ec&t=1789093626750&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Kuan-Yi Lee - Keisuke Saitoh" group-title="Yayinlar",Kuan-Yi Lee - Keisuke Saitoh
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20282573/1/mediaplaylist.m3u8?s=23e7bac88674db05553418fd9706e1ee2191aefbccdedf65ed6b789cbb13c2b2&t=1789093637677&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Cameron Burton - James Girdler" group-title="Yayinlar",Cameron Burton - James Girdler
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20282290/1/mediaplaylist.m3u8?s=94d40b53c2409d08757dc2e92b5e2ddd50d847af3e2eb8a462ca3ecb564ab1cd&t=1789093639787&ai=5000&av=1&ui=0
+https://edge2.xmediaget.com/hls-live/20283883/1/mediaplaylist.m3u8?s=41eff64af4807999f864ff2a9195bdcdd15a3c408fd365e6ea6a349d24f609a6&t=1789111476560&ai=5000&av=1&ui=0
