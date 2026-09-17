@@ -1,36 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Malaga - Villarreal" group-title="Yayinlar",Malaga - Villarreal
+#EXTINF:-1 tvg-name="Real Tomayapo - Oriente Petrolero" group-title="Yayinlar",Real Tomayapo - Oriente Petrolero
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20356313/1/mediaplaylist.m3u8?s=7a3e971a10e53d3aa8b2ff064fe02a0bdef17854848a13d68523b312cc94d176&t=1789676835471&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Real Frontera - Atletico Barinas" group-title="Yayinlar",Real Frontera - Atletico Barinas
+https://edge2.xmediaget.com/hls-live/20357329/1/mediaplaylist.m3u8?s=d2a99a9563425be9f4d9529d41a0e489193fa309ec5f9e85ad570eec1fd63d3d&t=1789685915620&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Juan Sebastian Osorio - Valentin Garay" group-title="Yayinlar",Juan Sebastian Osorio - Valentin Garay
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20356348/1/mediaplaylist.m3u8?s=2312d7877c36783c1a7bc18c6730052d62788b9f37f83c2f968b9ba0cad6151f&t=1789676838554&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Union Brescia - Treviso" group-title="Yayinlar",Union Brescia - Treviso
+https://edge2.xmediaget.com/hls-live/20357341/1/mediaplaylist.m3u8?s=b3397a96afea03715986d53979a79ed2422240bf0cf26e134c0024eb2ba7b0bc&t=1789685918658&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Zhu/Ilagan - Cash/Seggerman" group-title="Yayinlar",Zhu/Ilagan - Cash/Seggerman
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20356074/1/mediaplaylist.m3u8?s=7a6b3f14f774a95eae4f72d9e0c7f69e4bc9e44286960addc501d73f2e4eb0fd&t=1789676864548&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Renate - AC Dolomiti Bellunesi" group-title="Yayinlar",Renate - AC Dolomiti Bellunesi
+https://edge2.xmediaget.com/hls-live/20357378/1/mediaplaylist.m3u8?s=d35c18311b298be2ac995f496478ef02fbb5484cc9524072d288c3bb4317b91c&t=1789685935810&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Luther College - University of Wisconsin–River Falls" group-title="Yayinlar",Luther College - University of Wisconsin–River Falls
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20356075/1/mediaplaylist.m3u8?s=1c3fd046c2ea0474266c68930295e5d1455fd822fb1533eb7d2ce2a10592f6b2&t=1789676868318&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Central Espanol - Club Oriental" group-title="Yayinlar",Central Espanol - Club Oriental
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20355893/1/mediaplaylist.m3u8?s=1e507f4ad3698fbb7628f7974963b853e8719fabad9586a95d91e8ee27ef35d2&t=1789676877965&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="S.L. Benfica - SC Rasta Vechta" group-title="Yayinlar",S.L. Benfica - SC Rasta Vechta
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20355668/1/mediaplaylist.m3u8?s=a925ddc9248cdebe0d82c9f66399b6d56c8d7bb52ec62500ad8224d0eb4b03b6&t=1789676881677&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Pavel Bushuev - Siddharth Bharadwaj" group-title="Yayinlar",Pavel Bushuev - Siddharth Bharadwaj
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20355723/1/mediaplaylist.m3u8?s=7ba27bbb77e8d8aa2cae9729fb95e0d920348692d69501e6902372809249e640&t=1789676885680&ai=5000&av=1&ui=0
+https://edge2.xmediaget.com/hls-live/20356920/1/mediaplaylist.m3u8?s=a7c74cd996452d4bcfc6488fd9dc3c7adcdefe5afc66657dc5d9ae5cba7e608d&t=1789685943926&ai=5000&av=1&ui=0
