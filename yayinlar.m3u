@@ -1,56 +1,46 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bogota - Barranquilla" group-title="Yayinlar",Bogota - Barranquilla
+#EXTINF:-1 tvg-name="Spalding Golden Eagles - Asbury" group-title="Yayinlar",Spalding Golden Eagles - Asbury
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20399927/1/mediaplaylist.m3u8?s=4f40a42c921b0bc446c05407f928deea16573070af7761edfce91fe4f0aadedd&t=1790023391040&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Alina Shcherbinina - Krisha Mahendran" group-title="Yayinlar",Alina Shcherbinina - Krisha Mahendran
+https://edge2.xmediaget.com/hls-live/20400833/1/mediaplaylist.m3u8?s=74a16dafc58a6a63896d0de828764f9595a773a2fabd2232cd71da6cb8ba46e9&t=1790034320023&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Tropical EC - Grupinho" group-title="Yayinlar",Tropical EC - Grupinho
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20399768/1/mediaplaylist.m3u8?s=9198553a046ed55e7cc0f57a2dc4832233f85b92e75a61d2152527389036e264&t=1790023393648&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Zechariah Hamrouni - Lukas Palovic" group-title="Yayinlar",Zechariah Hamrouni - Lukas Palovic
+https://edge2.xmediaget.com/hls-live/20400902/1/mediaplaylist.m3u8?s=a24f3cb32842cc612180ea529541d6cbb8bd0c16be13ea1b06d7e43954f8d17b&t=1790034330208&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Deportivo Amambay - Colonias Gold" group-title="Yayinlar",Deportivo Amambay - Colonias Gold
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20399706/1/mediaplaylist.m3u8?s=877d03dcd613d21416235474bc153903b132d0c0f4814c8742f29f97267a2e71&t=1790023405053&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Marshall Landry - Julian Messina" group-title="Yayinlar",Marshall Landry - Julian Messina
+https://edge2.xmediaget.com/hls-live/20400633/1/mediaplaylist.m3u8?s=6d432763ec488494d337c2a748f4c46367825d8de0427ff01c419f40bab36fb3&t=1790034337934&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Humble Lions - Waterhouse" group-title="Yayinlar",Humble Lions - Waterhouse
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20399772/1/mediaplaylist.m3u8?s=218b886cbb3d6adc4baa0afc5ea05ac987a6bbac22d3dd675efefc9e0bc71136&t=1790023416077&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Terroristas - E.D.U. LEGENDS" group-title="Yayinlar",Terroristas - E.D.U. LEGENDS
+https://edge2.xmediaget.com/hls-live/20400378/1/mediaplaylist.m3u8?s=1e724185cf0388e823c447cc3417bbf36c84181c5b149fba1f3aff58c88d2c38&t=1790034345527&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Encarnacion - Deportivo Capiatá" group-title="Yayinlar",Encarnacion - Deportivo Capiatá
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20399564/1/mediaplaylist.m3u8?s=6b08845ec5c0378ff3bd8678317f54ca379a42840c7420e06a77dc49a0de5002&t=1790023426927&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Benjamin Aceval - Atletico Tembetary" group-title="Yayinlar",Benjamin Aceval - Atletico Tembetary
+https://edge2.xmediaget.com/hls-live/20400465/1/mediaplaylist.m3u8?s=63ec8363367c915592ce449a04519e3da9fbbef53bf1114620c071244fc0246c&t=1790034348703&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Real Cundinamarca - Deportes Quindío" group-title="Yayinlar",Real Cundinamarca - Deportes Quindío
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20399549/1/mediaplaylist.m3u8?s=2ded0da7304a4b95e311c9ff76ffc5876204befd75a39517174d173f7455ecad&t=1790023430167&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Austin Abbrat - James Quattro" group-title="Yayinlar",Austin Abbrat - James Quattro
+https://edge2.xmediaget.com/hls-live/20400377/1/mediaplaylist.m3u8?s=16a8eecaf5a08f312dd999c5170e73f512035fe97ba5d8c820fe331b4dc310b8&t=1790034351986&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Barracas Central - Independiente Rivadavia" group-title="Yayinlar",Barracas Central - Independiente Rivadavia
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20399542/1/mediaplaylist.m3u8?s=5211b074d4a9e195f0ccfd370814e4ea8c18719f765e25e988d419304bb47541&t=1790023433047&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Harrison Lee - Noble Renfrow" group-title="Yayinlar",Harrison Lee - Noble Renfrow
+https://edge2.xmediaget.com/hls-live/20400376/1/mediaplaylist.m3u8?s=ad8d0195cd3666a249a74e6efe728bdca9302fa7115f4ff2c6152aacc6686234&t=1790034354355&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Guabirá - San Antonio Bulo Bulo" group-title="Yayinlar",Guabirá - San Antonio Bulo Bulo
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20399392/1/mediaplaylist.m3u8?s=56f6526ecd7c501e6ce8a74d91f35b8d9f9ad5847a6eb4c273433e7b2d2729fc&t=1790023444306&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Katja Wiersholm - Berta Passola" group-title="Yayinlar",Katja Wiersholm - Berta Passola
+https://edge2.xmediaget.com/hls-live/20400375/1/mediaplaylist.m3u8?s=ad5eb95c94f49f0ffd7a32c0f167f3a7936bd70736e484061aeea32d5573e92f&t=1790034356581&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Carolina Kuhl - Tori Kinard" group-title="Yayinlar",Carolina Kuhl - Tori Kinard
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20399558/1/mediaplaylist.m3u8?s=1e4581af4301ac9b2b1b8d5137c3ad4ad4b3c4ef5f207b35829f662f708daf1d&t=1790023454476&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Ingenieros - 26 Febrero Colquiri" group-title="Yayinlar",Ingenieros - 26 Febrero Colquiri
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20399287/1/mediaplaylist.m3u8?s=973e0e0227f24e5acc06dd3e0acf31c54e2fdf0dcc1bb6a1de9c746c4fc5c364&t=1790023464492&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Laura Samson - Noemi Basiletti" group-title="Yayinlar",Laura Samson - Noemi Basiletti
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20399373/1/mediaplaylist.m3u8?s=ad9a2a1c20a5453777f572a660e1bb5104b70e454b2c4333e043a5469542a2db&t=1790023469491&ai=5000&av=1&ui=0
+https://edge2.xmediaget.com/hls-live/20400499/1/mediaplaylist.m3u8?s=1b71106128c8eb9f1cc9d309c72fae6b256be766866437201ca7c1b9f91b1a24&t=1790034358620&ai=5000&av=1&ui=0
