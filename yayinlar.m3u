@@ -1,116 +1,96 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Nellie Taraba Wallberg - Merel Hoedt" group-title="Yayinlar",Nellie Taraba Wallberg - Merel Hoedt
+#EXTINF:-1 tvg-name="Bruno Fernandez - Tomas Farjat" group-title="Yayinlar",Bruno Fernandez - Tomas Farjat
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20395279/1/mediaplaylist.m3u8?s=699ac831f0c48df0673f4fa772e4e01c4043646f91e4d39e732c2fce7b1523a7&t=1789988104210&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Kyoka Okamura - Leylah Annie Fernandez" group-title="Yayinlar",Kyoka Okamura - Leylah Annie Fernandez
+https://edge2.xmediaget.com/hls-live/20398005/1/mediaplaylist.m3u8?s=53dc96bd835529243d15f319e901ec1e1d9ac8fad012cfa3657e24bee0f38010&t=1790009029622&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Bulls - Dragons" group-title="Yayinlar",Bulls - Dragons
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20395203/1/mediaplaylist.m3u8?s=80caa3a924750f3ed8a38fcbc021e39df8f01527ff5513dbfc4ddec99d10fabe&t=1789988110135&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Karim Al-Amin - Jeremy Condere" group-title="Yayinlar",Karim Al-Amin - Jeremy Condere
+https://edge2.xmediaget.com/hls-live/20397988/1/mediaplaylist.m3u8?s=f5bc5f674d86e37092b24c5f285d2fc7c86c8d259d7d55aa136ac903a4b363a0&t=1790009040314&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Jedinstvo Ub - Loznica" group-title="Yayinlar",Jedinstvo Ub - Loznica
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20395221/1/mediaplaylist.m3u8?s=3e573b2e685c0c85d4d246be9b4d878f68cbf21af0842fb6f3c43c21f97503d8&t=1789988118293&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Rebecca Munk Mortensen - Paula Cembranos" group-title="Yayinlar",Rebecca Munk Mortensen - Paula Cembranos
+https://edge2.xmediaget.com/hls-live/20397877/1/mediaplaylist.m3u8?s=5a0802b6b73b2cbaf29f93a14584268df862737665a2fb152aa92399eae7835f&t=1790009045512&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Javor Ivanjica - Proleter Zrenjanin" group-title="Yayinlar",Javor Ivanjica - Proleter Zrenjanin
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20395231/1/mediaplaylist.m3u8?s=d34bc9c7c73109e782e781e5d59598f95fbd8794486e62ea50a51f30ed66a99f&t=1789988130285&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Spartacus - Pase" group-title="Yayinlar",Spartacus - Pase
+https://edge2.xmediaget.com/hls-live/20397853/1/mediaplaylist.m3u8?s=817e31c28b04dea7bb72211aa59a3b8a8689bcb20028119c6b2112fd3fe744ce&t=1790009050086&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Napredak Krusevac - Smederevo" group-title="Yayinlar",Napredak Krusevac - Smederevo
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20395147/1/mediaplaylist.m3u8?s=d01fa54fdcf1626371661913e09da51db920b570e8b3e7c89fe9a4ac6e6669e4&t=1789988141892&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Bosses - Fire shot" group-title="Yayinlar",Bosses - Fire shot
+https://edge2.xmediaget.com/hls-live/20397851/1/mediaplaylist.m3u8?s=99b8c642ced15bd32d5f1043bec4bd6c379e997e547c7438da861619ad56067e&t=1790009055395&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Metalac Gornji Milanovac - Graficar Beograd" group-title="Yayinlar",Metalac Gornji Milanovac - Graficar Beograd
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20395048/1/mediaplaylist.m3u8?s=83bec42cc62212b01a46608c7f071bcdfbafe1c29eaec6734e3a87e27aa98240&t=1789988145125&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Forward - Melburne" group-title="Yayinlar",Forward - Melburne
+https://edge2.xmediaget.com/hls-live/20397884/1/mediaplaylist.m3u8?s=d829efced167e5d3ceaeb8ef75551be223e9312ab6ae86a4fe559e16fd7eb8d9&t=1790009059028&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Suzhou Cats - Kunming Monks" group-title="Yayinlar",Suzhou Cats - Kunming Monks
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20394953/1/mediaplaylist.m3u8?s=6688d0ef70c95dd7044cfca62409365fa210a194e739b76831f9b09cee23f8d7&t=1789988147745&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Angelina Voloshchuk - Ariana Arseneault" group-title="Yayinlar",Angelina Voloshchuk - Ariana Arseneault
+https://edge2.xmediaget.com/hls-live/20397615/1/mediaplaylist.m3u8?s=dccc8d922c2960a3217972765a89dfe4169b8bf28ba24062b135b28f1a322028&t=1790009066292&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Joao Dinis Silva - Joao Deus" group-title="Yayinlar",Joao Dinis Silva - Joao Deus
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20394966/1/mediaplaylist.m3u8?s=81d40db7a137e333ffb44a0378a61b1585c4c0fd87e8477130718159f376a3bb&t=1789988150243&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Sofia Johnson - Reese Brantmeier" group-title="Yayinlar",Sofia Johnson - Reese Brantmeier
+https://edge2.xmediaget.com/hls-live/20397719/1/mediaplaylist.m3u8?s=cda05f66aa65f94052d7df00bb8bee3d3bc3ee9bbe80a80c40e5bef4fdb5e144&t=1790009070487&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="AC Bauta - Santa Felicia" group-title="Yayinlar",AC Bauta - Santa Felicia
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20394941/1/mediaplaylist.m3u8?s=f8e9db839903c80aa639cf115432e3af9c9b01775ed15d143f039e0be2704775&t=1789988158239&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Jessica Pieri - Aneta Kucmova" group-title="Yayinlar",Jessica Pieri - Aneta Kucmova
+https://edge2.xmediaget.com/hls-live/20397460/1/mediaplaylist.m3u8?s=3514122be9b13260cca6d4da103fad6e08eed6bc4350a174402d626f7e7da7df&t=1790009088941&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Susan Bandecchi - Oceane Dodin" group-title="Yayinlar",Susan Bandecchi - Oceane Dodin
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20394859/1/mediaplaylist.m3u8?s=72cb5731a814b73a22752daa56f3a3aec3686aff9f1e0056d9506c8eed4a002c&t=1789988166360&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Weronika Falkowska - Alana Smith" group-title="Yayinlar",Weronika Falkowska - Alana Smith
+https://edge2.xmediaget.com/hls-live/20397543/1/mediaplaylist.m3u8?s=1cbcf60d449bcb64b3432bb48dc44c670d332afd7af9ae0572c372e2872671b2&t=1790009091773&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Benjamin Thomas George - Duarte De Lima Sanches" group-title="Yayinlar",Benjamin Thomas George - Duarte De Lima Sanches
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20394995/1/mediaplaylist.m3u8?s=11a6512bd692c770968f3f4bc4fc9632bf38f0f91223fd23d48eeb1b63e0ea1e&t=1789988174407&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Kylie Collins - Valentina Steiner" group-title="Yayinlar",Kylie Collins - Valentina Steiner
+https://edge2.xmediaget.com/hls-live/20397468/1/mediaplaylist.m3u8?s=5549b7968264385d5a7011ee8e53014020d502df1630bdacc14a82a9c29610fc&t=1790009100224&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Wesley Cotton - Tomas Pinho" group-title="Yayinlar",Wesley Cotton - Tomas Pinho
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20394991/1/mediaplaylist.m3u8?s=a8f2a13040c437411dc9c409da4c255d896b6b109f11cfead6367aba8b41a4ee&t=1789988182444&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Vesa Ahti - Felix Alopaeus" group-title="Yayinlar",Vesa Ahti - Felix Alopaeus
+https://edge2.xmediaget.com/hls-live/20397504/1/mediaplaylist.m3u8?s=bc452078a130085bb052889fe97642125614fb2a9c429d4398d88ab58ed6fdcd&t=1790009107759&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Arin Pallegar - Aditya Vyas" group-title="Yayinlar",Arin Pallegar - Aditya Vyas
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20394807/1/mediaplaylist.m3u8?s=36bf8e4814100edbc3825281dad38987581dd594eb606ef9c4a433d50cf46985&t=1789988190470&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Andrea De Marchi - Sebastiano Cocola" group-title="Yayinlar",Andrea De Marchi - Sebastiano Cocola
+https://edge2.xmediaget.com/hls-live/20397499/1/mediaplaylist.m3u8?s=01fcf13ab2c37976b9f44040e59992309b9a87abce6602aab2dfba23aebc1a19&t=1790009119744&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Felix Obermair - Paxton Pritchard" group-title="Yayinlar",Felix Obermair - Paxton Pritchard
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20394809/1/mediaplaylist.m3u8?s=89bbe398c0ffd0f6f9412fb781c12eda43266e07add2ab0e87171609bae5362d&t=1789988201445&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Eric Vanshelboim - Valerio Bracci" group-title="Yayinlar",Eric Vanshelboim - Valerio Bracci
+https://edge2.xmediaget.com/hls-live/20397430/1/mediaplaylist.m3u8?s=fb6d0bb0f9b11e43fd45aac4dd0c21fcbd7abd0405f8293b2f1f70e76b8f5bec&t=1790009132529&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Rustavi - Iberia 1999" group-title="Yayinlar",Rustavi - Iberia 1999
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20394839/1/mediaplaylist.m3u8?s=b48a4e486426710bb751507e8e0f03f057ba6929ac1e2a8a5f2b04fd1ad35944&t=1789988267715&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="SPGU Saint Petersburg - SKGMI Vladikavkaz" group-title="Yayinlar",SPGU Saint Petersburg - SKGMI Vladikavkaz
+https://edge2.xmediaget.com/hls-live/20397308/1/mediaplaylist.m3u8?s=e93d40437a031ac630f0f629b300f66411dfe1ae24d27a47585085d18bd6ebe1&t=1790009144069&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Petrzalka - Pohronie" group-title="Yayinlar",Petrzalka - Pohronie
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20394646/1/mediaplaylist.m3u8?s=893dc40b8b45686afc1ee86ae2f08f0b92b2bf161e1d4fe38d9b6b6bf84ce493&t=1789988287163&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Tasmania JackJumpers - South East Melbourne Phoenix" group-title="Yayinlar",Tasmania JackJumpers - South East Melbourne Phoenix
+https://edge2.xmediaget.com/hls-live/20397403/1/mediaplaylist.m3u8?s=1c2c17a4865268ab5e729b00444ee90a3b765e1ab5bc61e8dfb44dbda10689c9&t=1790009147028&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Ferroviario Maputo - Maxaquene" group-title="Yayinlar",Ferroviario Maputo - Maxaquene
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20394622/1/mediaplaylist.m3u8?s=40ed15ce03ef874130c64a810e00b589d31242939e0623e22b9aa8fd7864ee2d&t=1789988290532&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Shanghai Jiao Tong University - National Taiwan University of Arts" group-title="Yayinlar",Shanghai Jiao Tong University - National Taiwan University of Arts
+https://edge2.xmediaget.com/hls-live/20397493/1/mediaplaylist.m3u8?s=19016f4ef50c47dd9ea8f1c1588901d6fa9fc2a2b13e57c593cef7a1f12d17f5&t=1790009149854&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="KK TFT Skopje - Machites Peiramatiko" group-title="Yayinlar",KK TFT Skopje - Machites Peiramatiko
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20394924/1/mediaplaylist.m3u8?s=52f332b7774a2a4731b74afd89e8cec7a34012cd20745c5f154ffbac418b85e1&t=1789988293035&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Indianna Spink - Sofia Camila Rojas" group-title="Yayinlar",Indianna Spink - Sofia Camila Rojas
+https://edge2.xmediaget.com/hls-live/20397478/1/mediaplaylist.m3u8?s=08ff6dcfb6a5babdb90006bb5d0122b0424d47f1bb90e8d72a31b0388893a4e6&t=1790009161170&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="William Rejchtman Vinciguerra - Jan Simonsson" group-title="Yayinlar",William Rejchtman Vinciguerra - Jan Simonsson
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20394483/1/mediaplaylist.m3u8?s=1db44eaedeeb0cc0bafd103b8c55312b1808c11f79cddbf87a1d5be15062157f&t=1789988297115&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Felix Romeo - Felix Einig" group-title="Yayinlar",Felix Romeo - Felix Einig
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20394577/1/mediaplaylist.m3u8?s=ebfc6eb9acc72f5639ab46e79760b3efcc03af3f831be6a95b093428e9b1fbdb&t=1789988299494&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Darya Astakhova - Magda Linette" group-title="Yayinlar",Darya Astakhova - Magda Linette
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20394459/1/mediaplaylist.m3u8?s=a7cf7dca22f454bb2b8eb532e49ad745d9460704ad87af6548742b7f8dbbc711&t=1789988311000&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Lisa Zaar - Enola Chiesa" group-title="Yayinlar",Lisa Zaar - Enola Chiesa
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20393821/1/mediaplaylist.m3u8?s=7c3d66989f14b4cc0c9cfb64a686fd6ea804afe4a92ad704b6fa3dbf2175ee91&t=1789988327017&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Ksenia Zaytseva - Ilay Yoruk" group-title="Yayinlar",Ksenia Zaytseva - Ilay Yoruk
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20393995/1/mediaplaylist.m3u8?s=7bdd35c86f2fcc236eeb7fa3564f1b61b73683e4cb7951981b0a0d1c29f3deae&t=1789988330125&ai=5000&av=1&ui=0
+https://edge2.xmediaget.com/hls-live/20397216/1/mediaplaylist.m3u8?s=39fde7762ba3fc5059cf715c14f3c11efd65cc5388c2fe669530206dd404ac3d&t=1790009168328&ai=5000&av=1&ui=0
