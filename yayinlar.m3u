@@ -1,46 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Spalding Golden Eagles - Asbury" group-title="Yayinlar",Spalding Golden Eagles - Asbury
+#EXTINF:-1 tvg-name="Mineros de Zacatecas - Gambusinos de Fresnillo" group-title="Yayinlar",Mineros de Zacatecas - Gambusinos de Fresnillo
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20400833/1/mediaplaylist.m3u8?s=74a16dafc58a6a63896d0de828764f9595a773a2fabd2232cd71da6cb8ba46e9&t=1790034320023&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Tropical EC - Grupinho" group-title="Yayinlar",Tropical EC - Grupinho
+https://edge2.xmediaget.com/hls-live/20401725/1/mediaplaylist.m3u8?s=f573a8afb435cdeef94311d60b3e8e2e81165130512a785d09d25deb31edff77&t=1790045193099&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Santos del Potosi - Lobos Puebla" group-title="Yayinlar",Santos del Potosi - Lobos Puebla
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20400902/1/mediaplaylist.m3u8?s=a24f3cb32842cc612180ea529541d6cbb8bd0c16be13ea1b06d7e43954f8d17b&t=1790034330208&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Deportivo Amambay - Colonias Gold" group-title="Yayinlar",Deportivo Amambay - Colonias Gold
+https://edge2.xmediaget.com/hls-live/20401724/1/mediaplaylist.m3u8?s=2bdeb29e497022c0b8079f48cee64be438d682decb761728d057ed351eeb2495&t=1790045201417&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Reiya Komagata - Ryoma Cogan" group-title="Yayinlar",Reiya Komagata - Ryoma Cogan
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20400633/1/mediaplaylist.m3u8?s=6d432763ec488494d337c2a748f4c46367825d8de0427ff01c419f40bab36fb3&t=1790034337934&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Humble Lions - Waterhouse" group-title="Yayinlar",Humble Lions - Waterhouse
+https://edge2.xmediaget.com/hls-live/20401793/1/mediaplaylist.m3u8?s=c979e200b5e4dbf2a8ef78b060249432e6287363a8afae770f7e09215c326837&t=1790045209668&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Yue Xia - Shengyu Wang" group-title="Yayinlar",Yue Xia - Shengyu Wang
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20400378/1/mediaplaylist.m3u8?s=1e724185cf0388e823c447cc3417bbf36c84181c5b149fba1f3aff58c88d2c38&t=1790034345527&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Encarnacion - Deportivo Capiatá" group-title="Yayinlar",Encarnacion - Deportivo Capiatá
+https://edge2.xmediaget.com/hls-live/20401783/1/mediaplaylist.m3u8?s=ca01198ae13a51844a7c5e9779cd84c691450710923104113882e12cd0f1c497&t=1790045217644&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Brujos Izalco - A Lobos BKB" group-title="Yayinlar",Brujos Izalco - A Lobos BKB
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20400465/1/mediaplaylist.m3u8?s=63ec8363367c915592ce449a04519e3da9fbbef53bf1114620c071244fc0246c&t=1790034348703&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Real Cundinamarca - Deportes Quindío" group-title="Yayinlar",Real Cundinamarca - Deportes Quindío
+https://edge2.xmediaget.com/hls-live/20401501/1/mediaplaylist.m3u8?s=3db31b7fd7c863f557e57464c97300212b33a56a2fc0406c064cf6d4f7f40b52&t=1790045225675&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="El Calor de Cancun - Diablos Rojos" group-title="Yayinlar",El Calor de Cancun - Diablos Rojos
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20400377/1/mediaplaylist.m3u8?s=16a8eecaf5a08f312dd999c5170e73f512035fe97ba5d8c820fe331b4dc310b8&t=1790034351986&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Barracas Central - Independiente Rivadavia" group-title="Yayinlar",Barracas Central - Independiente Rivadavia
+https://edge2.xmediaget.com/hls-live/20401498/1/mediaplaylist.m3u8?s=af61618d339d6754d7bc2feb75ee15e83f85621c36c6b65e47cc32d1253f4075&t=1790045235704&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Arnett Gardens - Dunbeholden" group-title="Yayinlar",Arnett Gardens - Dunbeholden
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20400376/1/mediaplaylist.m3u8?s=ad8d0195cd3666a249a74e6efe728bdca9302fa7115f4ff2c6152aacc6686234&t=1790034354355&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Guabirá - San Antonio Bulo Bulo" group-title="Yayinlar",Guabirá - San Antonio Bulo Bulo
+https://edge2.xmediaget.com/hls-live/20401396/1/mediaplaylist.m3u8?s=80691bac9729a0026cb3f45c94506ba9b6a3f8788100623284aa0f457f95514b&t=1790045258033&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Nagi Hanatani - Mana Kawamura" group-title="Yayinlar",Nagi Hanatani - Mana Kawamura
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20400375/1/mediaplaylist.m3u8?s=ad5eb95c94f49f0ffd7a32c0f167f3a7936bd70736e484061aeea32d5573e92f&t=1790034356581&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Carolina Kuhl - Tori Kinard" group-title="Yayinlar",Carolina Kuhl - Tori Kinard
-#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20400499/1/mediaplaylist.m3u8?s=1b71106128c8eb9f1cc9d309c72fae6b256be766866437201ca7c1b9f91b1a24&t=1790034358620&ai=5000&av=1&ui=0
+https://edge2.xmediaget.com/hls-live/20401438/1/mediaplaylist.m3u8?s=c2f76b66fbc5e6892f90f4e82b4ef6bc2e079dfb9bc2b8d74ffed0997116b340&t=1790045264086&ai=5000&av=1&ui=0
