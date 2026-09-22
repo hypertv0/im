@@ -1,16 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Carolina Kuhl - Anna Pushkareva" group-title="Yayinlar",Carolina Kuhl - Anna Pushkareva
+#EXTINF:-1 tvg-name="Capiata Bulls - Olimpia Kings" group-title="Yayinlar",Capiata Bulls - Olimpia Kings
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20410039/1/mediaplaylist.m3u8?s=16873149493802fa1ae4363d81956d10005b2004e07739bb461dbe9390278e66&t=1790109846263&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="Berwick Rangers - Stranraer" group-title="Yayinlar",Berwick Rangers - Stranraer
+https://edge2.xmediaget.com/hls-live/20411394/1/mediaplaylist.m3u8?s=d7c9101d506f4e3d2cb890f225c6ff046caa18b158ababf14bbf2307be7aa2ec&t=1790119470829&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Las Animas - Colo Colo" group-title="Yayinlar",Las Animas - Colo Colo
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20409804/1/mediaplaylist.m3u8?s=161f0afd876091113f83838b2eefe80a1bff2baa295b922dfd116fcbf09f23bb&t=1790109873291&ai=5000&av=1&ui=0
-#EXTINF:-1 tvg-name="James Quattro - Noey Do" group-title="Yayinlar",James Quattro - Noey Do
+https://edge2.xmediaget.com/hls-live/20411445/1/mediaplaylist.m3u8?s=98039f59aa6d599177cd2813561b318912b64185d776cb9f178b4cfa947a59ff&t=1790119488170&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Nacional Potosi - Club Bamin Real Potosi" group-title="Yayinlar",Nacional Potosi - Club Bamin Real Potosi
 #EXTVLCOPT:http-referrer=https://izlemac655.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://izlemac655.sbs
-https://edge2.xmediaget.com/hls-live/20409846/1/mediaplaylist.m3u8?s=9204dbd5ee68263122db45d17bb25c2d4dde281014347206b62c21e97a41bd9c&t=1790109889970&ai=5000&av=1&ui=0
+https://edge2.xmediaget.com/hls-live/20411400/1/mediaplaylist.m3u8?s=46b4ef7af256e3634de5ad31a56f1991ff65f418971908e69472518f36fc29b0&t=1790119499189&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Ekaterina Maklakova - Jo-Yee Chan" group-title="Yayinlar",Ekaterina Maklakova - Jo-Yee Chan
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20411205/1/mediaplaylist.m3u8?s=23dc085d1fa6f9b926ac8833c187619d30abe77260fc0cd890625b251e1c44bd&t=1790119502829&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Shorter Hawks - Southern Wesleyan Warriors" group-title="Yayinlar",Shorter Hawks - Southern Wesleyan Warriors
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20410959/1/mediaplaylist.m3u8?s=7e0a6834c18506f63113ba6f62bee78d1baa74390041365c9073bd75133e288a&t=1790119527992&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="2 de Mayo - Sol de America" group-title="Yayinlar",2 de Mayo - Sol de America
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20410893/1/mediaplaylist.m3u8?s=d80b8b82c009d3c81b50013d913f48bca4cae7c0f6f38d6a5e22bdef631392b0&t=1790119538508&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Victoria Rodriguez - Evialina Laskevich" group-title="Yayinlar",Victoria Rodriguez - Evialina Laskevich
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20410701/1/mediaplaylist.m3u8?s=79c74d8d11eaf66ed54d457f554b5307c38751512e56f002d838ed18a9cf519b&t=1790119546809&ai=5000&av=1&ui=0
+#EXTINF:-1 tvg-name="Hanna Chang - Kailey Evans" group-title="Yayinlar",Hanna Chang - Kailey Evans
+#EXTVLCOPT:http-referrer=https://izlemac655.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://izlemac655.sbs
+https://edge2.xmediaget.com/hls-live/20410622/1/mediaplaylist.m3u8?s=33ccb306459c9f4ce7eab1bf09a2aa832ad29e5228a95ef42a288d9bbed7e70d&t=1790119557403&ai=5000&av=1&ui=0
